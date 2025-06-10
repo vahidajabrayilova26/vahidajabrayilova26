@@ -2,7 +2,7 @@
 <h3 align="center">🎓 IT Student | 📊 Future Data Analyst | 🌱 Lifelong Learner | 🎨 Passionate about Art and Philosophy</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/IF2JdxzmyN4AAAAj/coding-girl.gif">
 
-- 📚 I'm currently studying **Information Technology** at ASOIU with a GPA of **93.2**
+- 📚 I'm currently studying **Information Technology** at ASOIU with a GPA of **88.3**
 
 - 🧠 Currently expanding my skills in **Python, SQL, Excel**, and **Data Science**
 
